@@ -17,5 +17,3 @@ The control framework allows a follower agent (modeled as a nonholonomic unicycl
 The numerical simulations are written in MATLAB and rely on standard built-in ODE solvers. No additional toolboxes are strictly required.
 * **MATLAB** (Tested on R2023a or newer)
 
-*(Note: The robotic implementation using TurtleBot 3 and OptiTrack over ROS 2 discussed in the paper is maintained in a separate hardware repository.)*
-
