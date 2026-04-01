@@ -1,3 +1,7 @@
+This repository contains the official experiment code for the paper: \*\*"On Feedback Speed Control for a Planar Tracking"\*\* by Xincheng Li, Tengyue Liu, and Udit Halder.
+
+
+
 \## Overview
 
 This repository contains ROS 2 \& Python implementation of a two-agent leader-follower control using motion capture feedback. The follower agent is modeled as a nonholonomic unicycle and attempts to maintain a relative formation with the leader.
